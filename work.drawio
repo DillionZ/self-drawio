@@ -826,7 +826,7 @@
         <mxCell id="iQxn18xHWzbPXYuK_Zg_-6" value="网关（B端网关｜H5网关）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="580" y="1440" width="560" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iQxn18xHWzbPXYuK_Zg_-7" value="课程后端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="iQxn18xHWzbPXYuK_Zg_-7" value="业务侧后端（课程后端）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="580" y="1540" width="560" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iQxn18xHWzbPXYuK_Zg_-10" value="素材过滤服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
@@ -838,8 +838,8 @@
         <mxCell id="iQxn18xHWzbPXYuK_Zg_-12" value="统一播放器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="815" y="1340" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iQxn18xHWzbPXYuK_Zg_-13" value="业务侧前端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="580" y="1330" width="90" height="30" as="geometry" />
+        <mxCell id="iQxn18xHWzbPXYuK_Zg_-13" value="业务侧前端（课程、素材中心、富文本）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1330" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
